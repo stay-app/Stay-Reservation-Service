@@ -45,6 +45,6 @@
     "react-test-renderer": "^16.9.0",
     "sequelize": "5.15.1",
     "webpack": "4.39.1",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   }
 }
